@@ -1,4 +1,4 @@
-# mc-server-launcher
+# spigot-launcher
 Simple Batch script to create and run Spigot servers.
 
 ### Table of Contents
