@@ -9,7 +9,7 @@ Simple Batch script to create and run Spigot servers.
 | [Customisation](#customisation) | [Minecraft Settings](#motd), [Change Defaults](#defaults), [Other Settings](#ram) |
 | [Debugging](#debugging)         | [setup.bat](#setupd), [start.bat](#startd), [upgrade.bat](#upgraded)              |
 ## What you need
-Note: Make sure you have read and accept the [EULA](https://www.minecraft.net/en-us/eula)  
+Note: Make sure you have read and accept the [EULA](https://account.mojang.com/documents/minecraft_eula)  
 In order for Minecraft servers to work, please make sure you have port 25565 open on your router, and have the appropriate java version properly installed
 (Java 16 is required for 1.17 or above; Java 8 is required for 1.16.5 and lower). You also should have git installed.
 ### Java Downloads:
