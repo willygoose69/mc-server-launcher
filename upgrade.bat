@@ -4,7 +4,7 @@ cd WSConfig\Servers
 dir
 set /p name=World Name: 
 cd %name%
-set /p upgrade=Would you like to upgarde your minecraft version? (y/n): 
+set /p upgrade=Would you like to upgrade your minecraft version? (y/n): 
 if %upgrade%==n (
     if exist version.wilver (
         set /p version=<version.wilver
