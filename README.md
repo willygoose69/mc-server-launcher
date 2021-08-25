@@ -15,7 +15,7 @@ In order for Minecraft servers to work, please make sure you have port 25565 ope
 ### Java Downloads:
 Java 8: https://www.oracle.com/uk/java/technologies/javase/javase-jdk8-downloads.html  
 Java 16: https://www.oracle.com/uk/java/technologies/javase-jdk16-downloads.html  
-Please note: Java is in no way related to me and definately not created by me. 
+Please note: Java is in no way related to me and definitely not created by me. 
 
 ## <a name="setup"></a>Setup
 To set any new server up, weather it is the first time or not is very simple with this server launcher.
